@@ -31,12 +31,12 @@ Code must be written in Javascript language. The code will be tested with Node8,
                 {
                     date: "2019-05-08",
                     time: "08.31",
-                    minutes: 1
+                    lateMinutes: 1
                 },
                 {
                     date: "2019-05-04",
                     time: "09.12",
-                    minutes: 42
+                    lateMinutes: 42
                 }
             ]
         },
@@ -46,7 +46,7 @@ Code must be written in Javascript language. The code will be tested with Node8,
                 {
                     date: "2019-05-08",
                     time: "08.34",
-                    minutes: 4
+                    lateMinutes: 4
                 }
             ]
         }]
