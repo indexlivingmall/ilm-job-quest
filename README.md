@@ -19,7 +19,7 @@ Code must be written in Javascript language. The code will be tested with Node8,
 - 2.1 Average **working time** of all employee this week
 - 2.2 Average **Start time** for employee that has 'officer' as **position** this week
 - 2.3 Find the employee who got the most **working time** this week
-- 2.4 Find the employee who **came late**. The answer must be include dateTime 
+- 2.4 Find the employee who **came late**. The answer must be include dateTime, minutes of late time
 
     **remark 2.4**
     - start work at 8.30 am.
@@ -30,11 +30,13 @@ Code must be written in Javascript language. The code will be tested with Node8,
             dateTime: [
                 {
                     date: "2019-05-08",
-                    time: "08.31"
+                    time: "08.31",
+                    minutes: 1
                 },
                 {
                     date: "2019-05-04",
-                    time: "09.12"
+                    time: "09.12",
+                    minutes: 42
                 }
             ]
         },
@@ -43,7 +45,8 @@ Code must be written in Javascript language. The code will be tested with Node8,
             dateTime: [
                 {
                     date: "2019-05-08",
-                    time: "08.34"
+                    time: "08.34",
+                    minutes: 4
                 }
             ]
         }]
