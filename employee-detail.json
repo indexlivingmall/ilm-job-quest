@@ -1,0 +1,20 @@
+[
+    {
+        "employeeId": "6140001",
+        "firstname": "Arya",
+        "lastname": "stark",
+        "position": "manager"
+    },
+    {
+        "employeeId": "6140002",
+        "firstname": "Daenerys",
+        "lastname": "Targaryen",
+        "position": "officer"
+    },
+    {
+        "employeeId": "6140003",
+        "firstname": "Cersei",
+        "lastname": "Lannister",
+        "position": "officer"
+    }
+]
