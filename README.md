@@ -20,7 +20,7 @@ Code must be written in Javascript language. The code will be tested with Node8,
 - 2.2 Average **Start time** for employee that has 'officer' as **position** this week
 - 2.3 Find the employee who got the most **working time** this week
 - 2.4 Find the employee who came late. The answer must be include dateTime 
-    *remark 2.4
+    * remark 2.4
     - start work at 8.30 am.
     - result list => 
     ```
