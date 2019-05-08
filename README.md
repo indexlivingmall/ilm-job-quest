@@ -16,7 +16,32 @@ Code must be written in Javascript language. The code will be tested with Node8,
 ```
 
 2. Download [work-weekly.json](https://github.com/indexlivingmall/ilm-job-quest/blob/master/work-weekly.json) and write a code to calculate these values from **work-weekly.json**
-- 2.1 Average **networth** of all heroes
-- 2.2 Average **level** for hero that has 'intelligent' as **primary_attribute**
-- 2.3 Find the hero who got the most **assist**
-- 2.4 Find the hero who got the worst **kill/death ratio** (ratio = kill/death)
+- 2.1 Average **working time** of all employee this week
+- 2.2 Average **Start time** for employee that has 'officer' as **position** this week
+- 2.3 Find the employee who got the most **working time** this week
+- 2.4 Find the employee who came late. The answer must be include dateTime 
+    *remark 2.4
+    - start work at 8.30 am.
+    - result list => 
+        output = [{
+            name: "XX1",
+            dateTime: [
+                {
+                    date: "2019-05-08",
+                    time: "08.31"
+                },
+                {
+                    date: "2019-05-04",
+                    time: "09.12"
+                }
+            ]
+        },
+        {
+            name: "XX2",
+            dateTime: [
+                {
+                    date: "2019-05-08",
+                    time: "08.34"
+                }
+            ]
+        }]
