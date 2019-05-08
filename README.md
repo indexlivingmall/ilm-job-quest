@@ -15,7 +15,7 @@ Code must be written in Javascript language. The code will be tested with Node8,
 [498, 234, 374, 498 ,511]
 ```
 
-2. Download [work-weekly.json](https://github.com/indexlivingmall/ilm-job-quest/blob/master/work-weekly.json) and write a code to calculate these values from **work-weekly.json**
+2. Download [work-weekly.json](https://github.com/indexlivingmall/ilm-job-quest/blob/master/work-weekly.json), [employee-detail.json](https://github.com/indexlivingmall/ilm-job-quest/blob/master/employee-detail.json) and write a code to calculate these values from **work-weekly.json, employee-detail.json**
 - 2.1 Average **working time** of all employee this week
 - 2.2 Average **Start time** for employee that has 'officer' as **position** this week
 - 2.3 Find the employee who got the most **working time** this week. The answer must be include total working time
