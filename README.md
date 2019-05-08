@@ -14,3 +14,9 @@ Code must be written in Javascript language. The code will be tested with Node8,
 > shift([100, 234, 374, 498 ,511], 'replace', 3,0)
 [498, 234, 374, 498 ,511]
 ```
+
+2. Download [work-weekly.json](https://github.com/takemetour/job-quest-intern-2019/blob/master/hero.json) and write a code to calculate these values from **hero.json**
+- 2.1 Average **networth** of all heroes
+- 2.2 Average **level** for hero that has 'intelligent' as **primary_attribute**
+- 2.3 Find the hero who got the most **assist**
+- 2.4 Find the hero who got the worst **kill/death ratio** (ratio = kill/death)
