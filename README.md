@@ -23,6 +23,7 @@ Code must be written in Javascript language. The code will be tested with Node8,
     *remark 2.4
     - start work at 8.30 am.
     - result list => 
+    ```
         output = [{
             name: "XX1",
             dateTime: [
@@ -45,3 +46,4 @@ Code must be written in Javascript language. The code will be tested with Node8,
                 }
             ]
         }]
+    ```
