@@ -26,7 +26,10 @@ Code must be written in Javascript language. The code will be tested with Node8,
     - result list => 
     ```
         output = [{
-            name: "XX1",
+            employeeId: "XX1",
+            firstname: "XX1",
+            lastname: "XX1",
+            position: "XX1",
             dateTime: [
                 {
                     date: "2019-05-08",
@@ -41,7 +44,10 @@ Code must be written in Javascript language. The code will be tested with Node8,
             ]
         },
         {
-            name: "XX2",
+            employeeId: "XX2",
+            firstname: "XX2",
+            lastname: "XX2",
+            position: "XX2",
             dateTime: [
                 {
                     date: "2019-05-08",
