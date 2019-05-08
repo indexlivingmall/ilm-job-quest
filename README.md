@@ -22,7 +22,7 @@ Code must be written in Javascript language. The code will be tested with Node8,
 - 2.4 Find the employee who **came late**. The answer must be include dateTime, minutes of late time
 
     **remark 2.4**
-    - start work at 8.30 am.
+    - start work at 8:30 am.
     - result list => 
     ```
         output = [{
@@ -33,12 +33,12 @@ Code must be written in Javascript language. The code will be tested with Node8,
             dateTime: [
                 {
                     date: "2019-05-08",
-                    time: "08.31",
+                    time: "08:31",
                     lateMinutes: 1
                 },
                 {
                     date: "2019-05-09",
-                    time: "09.12",
+                    time: "09:12",
                     lateMinutes: 42
                 }
             ]
@@ -51,7 +51,7 @@ Code must be written in Javascript language. The code will be tested with Node8,
             dateTime: [
                 {
                     date: "2019-05-08",
-                    time: "08.34",
+                    time: "08:34",
                     lateMinutes: 4
                 }
             ]
