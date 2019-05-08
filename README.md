@@ -57,3 +57,18 @@ Code must be written in Javascript language. The code will be tested with Node8,
             ]
         }]
     ```
+
+## Questions
+Q1: What is REST API?
+
+A1: <insert your answer here>
+
+Q2: What do you expect to get during a developer at index living mall?
+
+A2: <insert your answer here>
+
+## Submitting
+
+Please fork this repo and submit your repository at potsawat.ch@indexlivingmall.com 
+
+Note: These challenges must be done by yourself. There is no benefit for both sides if the answer do not reflect your true skill.
