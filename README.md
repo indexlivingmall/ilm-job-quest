@@ -69,6 +69,6 @@ A2: <insert your answer here>
 
 ## Submitting
 
-Please fork this repo and submit your repository at potsawat.ch@indexlivingmall.com 
+Please fork this repo and submit your repository at thanat.ma@indexlivingmall.com 
 
 Note: These challenges must be done by yourself. There is no benefit for both sides if the answer do not reflect your true skill.
